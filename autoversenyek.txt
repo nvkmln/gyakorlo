@@ -1,0 +1,49 @@
+Név;Születési év;Ország;Autómárka;Versenyidő
+John Doe;1995;USA;Ferrari;120.5
+Jane Smith;2000;UK;McLaren;118.2
+Carlos Pérez;1998;Spain;Mercedes;119.8
+Kovács Béla;1997;Hungary;Red Bull;121.3
+Yuki Tanaka;1999;Japan;Toyota;122.1
+Michael Müller;2001;Germany;Porsche;117.9
+Ricardo Santos;1996;Brazil;Aston Martin;120.0
+Luca Bianchi;1994;Italy;Ferrari;119.5
+Pierre Dubois;1993;France;Alpine;121.0
+Javier Rodríguez;2002;Mexico;McLaren;118.7
+Oliver Brown;1991;Canada;Mercedes;119.3
+Hans Schmidt;1990;Germany;Audi;120.8
+David Johnson;1998;Australia;Red Bull;121.6
+Nikola Petrovic;1995;Serbia;Williams;122.4
+Sebastian Meier;1997;Switzerland;BMW;118.9
+Max Andersson;1996;Sweden;Volvo;120.7
+Ivan Sokolov;1993;Russia;Lada;125.3
+Theo van Dijk;1999;Netherlands;Mercedes;119.2
+Alejandro Gomez;2001;Argentina;McLaren;118.4
+Chris Wilson;1994;South Africa;Aston Martin;120.6
+Marc Dupont;2003;France;Alpine;117.6
+Giorgio Rossi;2000;Italy;Ferrari;118.1
+Lucas Moreira;1992;Brazil;Aston Martin;120.9
+Dimitri Ivanov;1995;Russia;Lada;126.0
+Felipe Navarro;1997;Spain;McLaren;119.0
+William Thompson;1998;USA;Ford;123.5
+Takahiro Yamamoto;1996;Japan;Honda;121.2
+Daniel Costa;1994;Portugal;Toyota;120.2
+Zsolt Nagy;1995;Hungary;Red Bull;122.5
+Rafael Almeida;1993;Brazil;Aston Martin;121.8
+Mateo Fernández;2002;Chile;Renault;119.7
+Jakob Nielsen;1991;Denmark;Peugeot;122.9
+Tomás Herrera;1990;Peru;Chevrolet;124.2
+Stefan Horváth;1995;Slovakia;Ford;120.4
+Haruto Nishimura;1996;Japan;Honda;121.3
+Miloš Jovanović;1993;Serbia;Williams;122.8
+Bruno Cavalcante;1997;Brazil;McLaren;119.1
+Jonas Bergström;2001;Sweden;Volvo;120.5
+Henrik Sørensen;1994;Denmark;Audi;121.7
+Miguel Álvarez;1999;Mexico;Mercedes;118.6
+Jürgen Kraus;2000;Germany;BMW;117.8
+Andrej Vasilyev;1996;Russia;Lada;125.0
+Samuel Martins;1998;Portugal;Toyota;120.3
+Ethan Williams;1993;Canada;Ferrari;119.4
+Jasper van Leeuwen;1997;Netherlands;Alpine;121.9
+Leonard Fischer;1992;Germany;Porsche;118.2
+Daan de Vries;2000;Netherlands;Mercedes;119.5
+Tiago Santos;1991;Brazil;Aston Martin;121.0
