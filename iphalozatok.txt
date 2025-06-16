@@ -1,0 +1,15 @@
+Tanuló neve: (írja ide a saját nevét!)
+
+PECS LAN
+hálózati cím:172.20.100.32
+alhálózati maszk:255.255.255.224
+első állomáscím:172.20.100.33
+utolsó állomáscím:172.20.100.62
+szórási cím:172.20.100.63
+
+BP LAN
+hálózati cím:172.20.101.240
+alhálózati maszk:255.255.255.240
+első állomáscím:172.20.101.241
+utolsó állomáscím:172.20.101.254
+szórási cím:172.20.101.255

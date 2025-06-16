@@ -1,0 +1,15 @@
+Tanuló neve: (írja ide a saját nevét!)
+
+BP LAN
+hálózati cím:10.0.98.0
+alhálózati maszk:255.255.255.240		
+első állomáscím:10.0.98.1	
+utolsó állomáscím:10.0.98.14
+szórási cím:10.0.98.15
+
+GYOR LAN
+hálózati cím:10.0.100.224
+alhálózati maszk:255.255.255.224
+első állomáscím:10.0.100.225
+utolsó állomáscím:10.0.100.254
+szórási cím:10.0.100.255
